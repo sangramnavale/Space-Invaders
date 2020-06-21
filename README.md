@@ -1,2 +1,2 @@
 # Space-Invaders
-The classic space invaders game created using Pygame.
+The classic game "Space Invaders" created using the Python module 'Pygame'.
